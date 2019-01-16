@@ -2,4 +2,5 @@
 
 Exploring git branch feature on master branch.
 
+Exploring git branch feature on documentation branch. [merged]
 
